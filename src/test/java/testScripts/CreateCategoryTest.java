@@ -11,7 +11,7 @@ import genericLibraries.BaseClass;
 import genericLibraries.IConstantPath;
 
 public class CreateCategoryTest extends BaseClass {
-
+//this code is success
 	@Test
 	public void CreateCategoryTest() throws InterruptedException {
 		SoftAssert soft = new SoftAssert();
